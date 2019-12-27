@@ -1,2 +1,3 @@
 # node_modulesを除外
 node_modules/
+.DS_Store
